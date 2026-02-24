@@ -52,7 +52,7 @@ Then paste the contents of `SKILL.md` from this folder. Claude will save it to t
 
 Open Claude Code and say:
 
-> "Clone the repo https://github.com/samsturm/claude-code_testing.git and copy the Stata skill from .claude/skills/stata_format/ into my global Claude skills folder at ~/.claude/skills/stata_format/"
+> "Clone the repo https://github.com/samsturm/claude_code_testing.git and copy the Stata skill from .claude/skills/stata_format/ into my global Claude skills folder at ~/.claude/skills/stata_format/"
 
 Claude will handle the git setup, cloning, and file copying for you.
 
